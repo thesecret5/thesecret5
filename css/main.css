@@ -1,0 +1,91 @@
+/* css document */
+
+body{background-color: whitesmoke} 
+h1 {
+	text-transform:uppercase;
+		text-align:center;
+	backroundcolor:white; 
+		color:black;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	
+}
+
+p {
+	font-size: 18px;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	color:black;
+	text-align: center;
+	text-justify: auto;
+	
+}
+h2 {
+	
+	font-size: 35px;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";text-align: center;background-color: lightgray;
+	
+}
+
+ul li {
+	display: inline;
+	margin-left: 15px;
+	display:contents;
+	
+}
+		
+a {
+	text-decoration: none;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 32px;
+	color:black
+}	
+	
+a:hover {
+	color:darkgray;
+}
+
+img {
+	
+
+	border: 1px solid black;
+	border-radius: 4px;
+	padding: 5px;
+	
+}
+
+input {
+  width: 100%; background-color: darkgray;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: darkgray;
+}
+
+div {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 2px;
+}
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
