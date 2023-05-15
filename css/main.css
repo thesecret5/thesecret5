@@ -27,7 +27,7 @@ h2 {
 
 ul li {
 	display: inline;
-	margin-left: 30px;
+	margin-left: 40px;
 	display:contents;
 	
 }
@@ -35,7 +35,7 @@ ul li {
 a {
 	text-decoration: none;
 	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
-	font-size: 30px;
+	font-size: 20px;
 	color:black
 }	
 	
