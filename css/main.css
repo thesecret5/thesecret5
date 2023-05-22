@@ -26,14 +26,13 @@ h2 {
 }
 
 ul li {
-	display: inline;	
-	padding: 10px 40px;
-	
+	display: inline;
+	margin-left: 250px;
+	display:contents;
 	
 }
 		
 a {
-	
 	text-decoration: none;
 	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
 	font-size: 20px;
